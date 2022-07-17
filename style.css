@@ -56,7 +56,7 @@ img {
     min-height: 100px;
     display: flex;
     flex-direction: column;
-    background-color:#ffd203 ;
+    background-color:#f1df8e ;
 }
 
 p {
@@ -65,4 +65,17 @@ p {
 
 .attribution {
     align-self:flex-end;
+}
+
+.section4 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffd203;
+}
+
+.call-to-action {
+    background-color: #c400278c;
+    display: flex;
+    flex-direction: row;
 }
